@@ -12,6 +12,8 @@ Esta carpeta contiene la documentación de Product Discovery y la dirección glo
 - [Métricas de éxito](success-metrics.md)
 - [Registro de decisiones](product-decisions.md)
 - [Roadmap](roadmap.md)
+- [Stack tecnológico](technology-stack.md)
+- [Decisiones de arquitectura](architecture-decisions.md)
 
 ## Convenciones de estado
 
