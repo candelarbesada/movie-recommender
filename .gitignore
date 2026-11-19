@@ -5,6 +5,11 @@
 *.pem
 *.key
 
+# Virtual environments
+.venv/
+venv/
+backend/.venv/
+
 # OS-generated files
 .DS_Store
 Thumbs.db
